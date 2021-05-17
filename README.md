@@ -1,2 +1,2 @@
 # data
-Contains Data, that will be downloaded by the smartinizer-firmware.
+Contains the firmware list, where all supported firmwares are listed.
