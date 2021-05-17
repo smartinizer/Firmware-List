@@ -11,8 +11,8 @@
             "url": "https://relais.smartinizer.devzero.cloud/config.json"
         },
         {
-            "name": "Test3",
-            "description": "The third testing firmware",
+            "name": "Test Firmware",
+            "description": "Just a testing firmware, installing will not work.",
             "url": "test3.smartinizer.devzero.cloud"
         }
     ]
