@@ -1,0 +1,19 @@
+{
+    "firmwares": [
+        {
+            "name": "Base-Firmware",
+            "description": "This firmware is for administration and implements no usecase",
+            "url": "https://smartinizer.devzero.cloud/config.json"
+        },
+        {
+            "name": "Relais",
+            "description": "This firmware enables you to manage a Relais with MQTT commands.",
+            "url": "https://relais.smartinizer.devzero.cloud/config.json"
+        },
+        {
+            "name": "Test3",
+            "description": "The third testing firmware",
+            "url": "test3.smartinizer.devzero.cloud"
+        }
+    ]
+}
