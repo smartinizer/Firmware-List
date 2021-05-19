@@ -6,8 +6,8 @@
             "url": "https://smartinizer.devzero.cloud/config.json"
         },
         {
-            "name": "Relais",
-            "description": "This firmware enables you to manage a Relais with MQTT commands.",
+            "name": "LED-Controle",
+            "description": "This firmware enables you to manage a LEDs with MQTT commands.",
             "url": "https://relais.smartinizer.devzero.cloud/config.json"
         },
         {
