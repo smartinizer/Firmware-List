@@ -11,9 +11,9 @@
             "url": "https://relais.smartinizer.devzero.cloud/config.json"
         },
         {
-            "name": "Test Firmware",
-            "description": "Just a testing firmware, installing will not work.",
-            "url": "test3.smartinizer.devzero.cloud"
+            "name": "Trigger Firmware",
+            "description": "Firmware is based on base firmware, but additionaly listens on mqtt messages and makes gpio output.",
+            "url": "https://trigger.smartinizer.devzero.cloud/config.json"
         }
     ]
 }
